@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+.chat {
+  color: grey;
+  width: 500px;
+  padding: 25px;
+  border-left: solid grey;
+  border-width: 7px;
+  margin: 15px
+}
+
+.coach {
+  background-color: yellow
+}
